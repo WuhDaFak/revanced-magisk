@@ -1,7 +1,7 @@
 # ReVanced Magisk (edited by [me](https://github.com/yxngazvest), original by [j-hc](https://github.com/j-hc))
 [![Build Modules](https://github.com/yxngazvest/revanced-magisk/actions/workflows/build.yml/badge.svg)](https://github.com/yxngazvest/revanced-magisk/actions/workflows/build.yml)
 
-This repo includes a simple script that downloads all the latest version of necessary prebuilt revanced tools and build patched apps (do not create issues related to revanced in this repo). You don't need to download a script and do everything, this repository was created to "help" others so they wouldn't have to do it ;P
+This repo includes a simple script that downloads all the latest version of necessary prebuilt revanced tools and build patched apps. You don't need to download a script and do everything, this repository was created to "help" others so they wouldn't have to do it ;P
 
 You can get the [latest CI release from here](https://github.com/yxngazvest/revanced-magisk/releases).
 
