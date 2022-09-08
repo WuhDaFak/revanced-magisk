@@ -342,7 +342,7 @@ module_prop() {
 name=${2}
 version=v${3}
 versionCode=${NEXT_VER_CODE}
-author=j-hc
+author=j-hc (edit: yxngazvest)
 description=${4}" >"${MODULE_TEMPLATE_DIR}/module.prop"
 
 	if [ "$ENABLE_MAGISK_UPDATE" = true ]; then
