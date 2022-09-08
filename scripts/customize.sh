@@ -60,5 +60,5 @@ rm -r $MODPATH/bin $MODPATH/lib $MODPATH/rv.patch $MODPATH/__PKGNAME.apk
 am force-stop __PKGNAME
 
 ui_print "* Done"
-ui_print "   by j-hc (github.com/j-hc)"
+ui_print "   by j-hc (edit: yxngazvest)"
 ui_print " "
