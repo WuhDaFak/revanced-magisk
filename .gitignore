@@ -1,0 +1,9 @@
+*.jar
+*.apk
+*.zip
+*.xdelta
+/revanced-cache
+/temp
+/build
+build.log
+/test
